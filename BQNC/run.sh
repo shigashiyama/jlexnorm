@@ -1,3 +1,5 @@
+# Copyright (c) 2021 National Institute of Information and Communications Technology (Shohei Higashiyama)
+
 BCCWJ_PATH=/path/to/BCCWJ/
 
 OC_PATH=$BCCWJ_PATH/Disk4/TSV_SUW_OT/OC/OC.txt

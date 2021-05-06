@@ -44,12 +44,6 @@ SFormID     POS     SForms
 POS sets and lemma IDs follw those of BCCWJ short unit word and UniDic.
 
 
-## License
-
-Copyright (c) 2021, National Institute of Information and Communications Technology
-Released under the MIT license https://opensource.org/licenses/mit-license.php
-
-
 ## Citation
 
 Please cite the paper below. A preprint for the paper is available at https://arxiv.org/abs/2104.03523

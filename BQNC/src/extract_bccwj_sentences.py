@@ -1,5 +1,7 @@
 #!python3
 
+# Copyright (c) 2021 National Institute of Information and Communications Technology (Shohei Higashiyama)
+
 import sys
 
 
