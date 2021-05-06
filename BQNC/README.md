@@ -31,7 +31,7 @@ Edit BCCWJ_PATH in run.sh and excute it. Then, data/BQNC_full.txt is generated.
 Each line in BQNC_full.txt follows the format below. CType, CForm, Pron, Cate, and SForm indicate conjugation type, conjugation form, pronunciation, word categories, and standard form ID, respectively.
 
 ~~~~
-Token   POS                CType   CForm        Pron  Lemma  LemmaID  Cate    SFormID
+Token   POS 　 　　　　　  CType   CForm  　　  Pron  Lemma  LemmaID  Cate　  SFormID
 ねぇー  形容詞-非自立可能  形容詞  終止形-一般  ネー  無い   27442    音変化  27442:無い
 ~~~~
 
@@ -53,7 +53,7 @@ Please cite the paper below. A preprint for the paper is available at https://ar
 @inproceedings{higashiyama2021,
       title = {User-Generated Text Corpus for Evaluating Japanese Morphological Analysis and Lexical Normalization},
       author = {Higashiyama, Shohei and Utiyama, Masao and Watanabe, Taro and Sumita, Eiichiro},
-      booktitle = {Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
+      booktitle = {Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
       month = June,
       year = 2021,
       publisher = {Association for Computational Linguistics}
