@@ -5,7 +5,8 @@ Blog and Q&A site Normalization Corpus
 
 ## Requirements
 
-BCCWJ DVD version (https://ccd.ninjal.ac.jp/bccwj/en/) is required to construct the full data because this data does not include the original sentences.
+- Python 3
+- BCCWJ DVD version (https://ccd.ninjal.ac.jp/bccwj/en/) is required to construct the full data because this data does not include the original sentences.
 
 
 ## Files
